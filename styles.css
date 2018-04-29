@@ -1,0 +1,39 @@
+.pic {
+	width: 300px;
+  //padding:10px;
+    margin:10px;
+}
+.card {
+box-shadow: 5px 5px 0px 0px rgba(168,255,248,1);
+	border: 1px solid black;
+	width: 320px;
+	//padding: 10px;
+  margin:10px;
+}
+h3{
+	//padding:10px;
+  margin-left:10px;
+}
+.details {
+	border: 1px solid black;
+  //padding:5px;
+  margin:10px;
+	width: 300px;
+}
+.short-description {
+	font-style: italic;
+  padding-left:5px;
+}
+.description {
+	margin: 10px;
+}
+ul{
+	list-style-type:none;
+  padding-left:10px;
+}
+ul > li {
+	padding: -30px;
+}
+ul > li > span {
+  font-weight:bold;
+}
